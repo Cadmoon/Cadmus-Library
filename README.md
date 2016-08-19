@@ -1,2 +1,2 @@
 # Cadmus-Library
-Creating a Online Library Using Java and HTML and AWS( First project) :)
+Creating a Online Library Using HTML and AWS( First project) :)
